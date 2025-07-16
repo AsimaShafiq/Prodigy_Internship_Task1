@@ -26,7 +26,7 @@ I used a heart disease dataset and visualized the gender distribution of patient
 - `chart_screenshot.png` → Output image of the countplot
 
 📷 Output Preview:
-![Chart](internship_task1.png)
+!(internship_task1.png)
 
 ---
 
