@@ -31,6 +31,8 @@ I used a heart disease dataset and visualized the gender distribution of patient
 ---
 
 📬 Connect With Me:
-Made with ❤️ by [Asima Shafiq](https://www.linkedin.com/in/asima-shafiq/)
+Made with ❤️ by   [www.linkedin.com/in/
+asima-s-637a682b6]
+
 
 #DataScience #Python #Internship #Visualization #GitHub #ProdigyInfoTech
