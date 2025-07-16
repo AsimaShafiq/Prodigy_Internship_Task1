@@ -35,5 +35,7 @@ Made with ❤️ by   [www.linkedin.com/in/
 asima-s-637a682b6]
 
 
-thanks to Prodigy Info Tech ( prodigyinfotech) for this great oportunity!
+Thanks to Prodigy Info Tech ([Prodigy InfoTech](https://prodigyinfotech.dev/])
+for this great oportunity!
+
 #DataScience #Python #Internship #Visualization #GitHub #ProdigyInfoTech
